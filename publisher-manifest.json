@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "5ef6eff6a80de2ba69cc5fae",
+  "owner": "espdhy",
+  "repo": "page-4feac57ad40962154e47bfd7",
+  "title": "mbSurf",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "4feac57ad40962154e47bfd7",
+      "a": "mbSurf",
+      "b": "",
+      "entity": "mbSurf",
+      "brand": "mbSurf",
+      "separator": "",
+      "path": "index.html",
+      "hash": "c589915e4c66cae7ecc42b8d8f060f0fabf92b183bdf8f2160f9f0d55638b078",
+      "content": {
+        "keyword1": "mbSurf",
+        "keyword2": "",
+        "primary_entity": "mbSurf",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "mbSurf 档位说明书。按克制口吻整理订阅标价、额度、设备上限与操作顺序，并附常见问题对照，不补充未记载事项。",
+          "AI_DESCRIPTION": "mbSurf 档位说明书。按克制口吻整理订阅标价、额度、设备上限与操作顺序，并附常见问题对照，不补充未记载事项。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n*{box-sizing:border-box;margin:0;padding:0}\nhtml,body{background:#080808;color:#b7b7b7}\nbody{font-family:\"Songti SC\",\"STSong\",\"SimSun\",\"PMingLiU\",serif;line-height:1.75;min-width:320px}\na{color:#39ff14;text-decoration:none}\na:hover{text-decoration:underline}\n::selection{background:#39ff14;color:#111}\n.top{position:sticky;top:0;z-index:9;display:flex;align-items:center;justify-content:space-between;gap:1rem;height:34px;padding:0 1.25rem;background:#050505;border-bottom:1px solid #39ff14;font-family:system-ui,-apple-system,\"PingFang SC\",\"Microsoft YaHei\",sans-serif;font-size:11px;letter-spacing:.14em}\n.top .mark{color:#39ff14;white-space:nowrap}\n.top nav{display:flex;gap:1.1rem;overflow-x:auto;white-space:nowrap;-webkit-overflow-scrolling:touch}\n.top nav a{color:#9cff90}\nmain{display:block}\n.hero{min-height:calc(100vh - 34px);padding:4.5rem 8vw 3.5rem;border-bottom:1px solid #161616}\n.kicker{font-family:system-ui,-apple-system,\"PingFang SC\",\"Microsoft YaHei\",sans-serif;font-size:11px;letter-spacing:.22em;color:#39ff14;margin-bottom:1.4rem}\nh1{font-size:clamp(2rem,4.6vw,3.1rem);font-weight:600;color:#f3f3f3;letter-spacing:.08em;line-height:1.2;margin-bottom:1.6rem}\n.standfirst{font-size:1.12rem;color:#d2d2d2;max-width:38rem;margin-bottom:1.6rem}\n.hero p{max-width:40rem;margin-bottom:1.15rem;font-size:1.02rem}\n.hero p:first-of-type::first-letter{float:left;font-size:3.35rem;line-height:.85;padding:0 .4rem 0 0;color:#39ff14;font-weight:600}\n.pull{max-width:28rem;margin:2.2rem 0 2.2rem 0;padding:.2rem 0 .2rem 1rem;color:#39ff14;font-size:1.05rem;line-height:1.6}\n.meta{font-family:system-ui,-apple-system,\"PingFang SC\",\"Microsoft YaHei\",sans-serif;font-size:12px;color:#6b6b6b;letter-spacing:.08em;margin-top:2.4rem}\nsection{padding:3.4rem 8vw}\nh2{font-size:1.35rem;color:#f1f1f1;font-weight:600;letter-spacing:.12em;margin-bottom:1.4rem}\nh3{font-size:1.02rem;color:#eaeaea;font-weight:600;margin-bottom:.45rem;letter-spacing:.04em}\n.note,.prose p,.step p,.cli p{max-width:42rem}\n.note{margin-bottom:1.6rem;color:#9a9a9a}\n.table-wrap{overflow-x:auto;-webkit-overflow-scrolling:touch;margin-top:1.2rem}\ntable{width:100%;min-width:640px;border-collapse:collapse;font-family:system-ui,-apple-system,\"PingFang SC\",\"Microsoft YaHei\",sans-serif;font-size:.92rem}\ncaption{text-align:left;caption-side:top;color:#6e6e6e;font-size:12px;letter-spacing:.08em;margin-bottom:.8rem}\nth,td{text-align:left;vertical-align:top;padding:.85rem 1rem .85rem 0}\nth{color:#39ff14;font-weight:500;border-bottom:1px solid #39ff14}\ntd{border-bottom:1px solid #191919;color:#c2c2c2}\ntd.plan{color:#efefef}\ntd.hl,th.hl{color:#39ff14}\n.steps{margin-top:.6rem}\n.step{padding:1.35rem 0 1.5rem;max-width:40rem}\n.step + .step{margin-top:.2rem}\n.step h3{font-family:system-ui,-apple-system,\"PingFang SC\",\"Microsoft YaHei\",sans-serif;font-size:.78rem;letter-spacing:.16em;color:#39ff14;margin-bottom:.35rem}\n.cli{padding-top:0}\n.cli p + p{margin-top:1rem}\n.cli ul{list-style:none;margin:1.3rem 0 0;max-width:40rem}\n.cli li{padding:1rem 0;color:#c0c0c0}\n.cli li strong{display:block;color:#eee;font-weight:600;margin-bottom:.25rem;font-family:system-ui,-apple-system,\"PingFang SC\",\"Microsoft YaHei\",sans-serif;letter-spacing:.06em;font-size:.92rem}\n.faq-grid{display:grid;grid-template-columns:1fr 1fr;gap:2.4rem 4.5rem;margin-top:.6rem}\n.qa{padding:0}\n.qa h3{font-size:1rem;margin-bottom:.5rem}\n.qa p{color:#a8a8a8;font-size:.98rem}\n.foot{padding:1.4rem 8vw 2.4rem;border-top:1px solid #151515;font-family:system-ui,-apple-system,\"PingFang SC\",\"Microsoft YaHei\",sans-serif;font-size:12px;color:#5c5c5c;letter-spacing:.06em}\n@media (max-width:720px){\n.hero{padding:3rem 1.2rem 2.4rem}\nsection{padding:2.4rem 1.2rem}\n.top{padding:0 .8rem}\n.faq-grid{grid-template-columns:1fr;gap:1.6rem}\nh1{letter-spacing:.04em}\n.pull{margin-left:0}\n}\n</style><header class=\"top\">\n<span class=\"mark\">mbSurf</span>\n<nav>\n<a href=\"#open\">开篇</a>\n<a href=\"#plans\">档位</a>\n<a href=\"#guide\">步骤</a>\n<a href=\"#clients\">客户端</a>\n<a href=\"#faq\">问题</a>\n</nav>\n</header>\n<main>\n<article class=\"hero\" id=\"open\">\n<p class=\"kicker\">说明书 · 开篇</p>\n<h1>mbSurf</h1>\n<p class=\"standfirst\">把订阅读成一份可核对的文本，而不是一段需要被说服的介绍。以下文字只处理已经列出的档位名称、标价与条目，并给出不含推测的操作顺序。</p>\n<p>本页按说明书体例写成。先限定阅读范围，再给出对照表，最后写步骤与问答。读者被要求做的事情很有限：看数字、抄数字、按自己手上的发放说明去安置程序。凡未在表中出现的事项，本文保持空白。</p>\n<p>mbSurf 在此仅作为档位标题出现。本页不陈述其法律主体、运营资质或市场位置，也不把名称改写成已核实的机构介绍。若你持有来自发放渠道的凭据，渠道文本的效力高于本页；本页只把分散的标价与额度收进一张表，便于放在手边。</p>\n<p>用词上避免口号。流量写成每月额度，设备写成同时在线上限，年付写成十二个月合计标价。表内若出现线路、工单、客户经理一类名称，它们仍只是名称。把名称读成测速结果、节点清单或服务承诺，会超出本页能够负责的范围。</p>\n<p class=\"pull\">未写入对照表的性能、节点、评价、兼容性、日志与退款规则，此处不补充、不转述、不估计。</p>\n<p>下文顺序为档位对照、使用说明、客户端、常见问题。顶部细条提供节内跳转。手机阅读时，对照表可横向滑动，问答改为单列。读完开篇即可从表头第一列开始核对。</p>\n<p class=\"meta\">阅读对象：需要对照 mbSurf 档位数字的人 · 文体：备忘</p>\n</article>\n<section id=\"plans\">\n<h2>档位对照</h2>\n<p class=\"note\">三列并置，便于横向比较。旗舰版在表内以强调色标出，仅表示参考清单中的标记列，不构成额外保证。月价与年价分行书写，请勿混读。</p>\n<div class=\"table-wrap\">\n<table>\nmbSurf 订阅档位横向对照\n<thead>\n<tr>\n<th>条目</th>\n<th>基础版</th>\n<th class=\"hl\">旗舰版</th>\n<th>团队版</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>月价</td>\n<td class=\"plan\">¥15/月</td>\n<td class=\"hl\">¥35/月</td>\n<td class=\"plan\">¥85/月</td>\n</tr>\n<tr>\n<td>年价</td>\n<td>按年付仅需 ¥150/年</td>\n<td class=\"hl\">按年付仅需 ¥350/年</td>\n<td>按年付仅需 ¥850/年</td>\n</tr>\n<tr>\n<td>每月流量额度</td>\n<td>100GB</td>\n<td class=\"hl\">300GB</td>\n<td>1000GB</td>\n</tr>\n<tr>\n<td>同时在线设备</td>\n<td>3 台</td>\n<td class=\"hl\">5 台</td>\n<td>20 台</td>\n</tr>\n<tr>\n<td>流媒体相关条目</td>\n<td>解锁基础流媒体</td>\n<td class=\"hl\">全节点原生流媒体解锁</td>\n<td>未单列此项，见表内其余条目</td>\n</tr>\n<tr>\n<td>线路与路由条目</td>\n<td>普通线路节点池</td>\n<td class=\"hl\">IPLC 专线游戏加速优化</td>\n<td>VIP 专属高带宽节点；支持企业定制路由</td>\n</tr>\n<tr>\n<td>支持条目</td>\n<td>未单列</td>\n<td class=\"hl\">7x24 优先工单支持</td>\n<td>专属客户经理服务</td>\n</tr>\n</tbody>\n</table>\n</div>\n</section>\n<section id=\"guide\">\n<h2>使用说明</h2>\n<p class=\"note\">步骤按阅读与抄录来写，不假设某一款程序已经安装，也不指定协议字段。完成与否以你本地看到的额度数字为准。</p>\n<div class=\"steps\">\n<div class=\"step\">\n<h3>一 · 核对范围</h3>\n<p>确认你只使用本页已经写出的内容：档位名、月价、年价、流量额度、设备上限，以及表内的条目名称。若发放渠道另有文本，发生分歧时以渠道文本为准，不要用本页去填补空白。</p>\n</div>\n<div class=\"step\">\n<h3>二 · 抄录数字</h3>\n<p>在对照表中选定一列，把每月流量与同时在线设备数抄到纸面或本地备忘。基础版为 100GB / 3 台，旗舰版为 300GB / 5 台，团队版为 1000GB / 20 台。抄录时保持原单位，不要换算成未给出的日均数字。</p>\n</div>\n<div class=\"step\">\n<h3>三 · 选择计价周期</h3>\n<p>月价与年价是两套标价，不要在同一笔记中混写。基础版对应 ¥15/月或 ¥150/年，旗舰版对应 ¥35/月或 ¥350/年，团队版对应 ¥85/月或 ¥850/年。本页未记载扣款日、中途改档或未使用天数如何处理，故不在步骤里推演。</p>\n</div>\n<div class=\"step\">\n<h3>四 · 安置程序</h3>\n<p>转到客户端一节。本页没有可核验的安装来源。程序、配置文件与更新说明，只从你取得订阅时附带的文本中获取。未写明的字段不要自行补全。</p>\n</div>\n<div class=\"step\">\n<h3>五 · 本地复核</h3>\n<p>配置完成后，在本地查看流量计数是否仍落在所选额度之内，并清点同时打开的设备是否超过上限。本页不描述服务端如何计量，也不提供排错流程图；计数异常时回到发放说明，而不是回到本页寻找未写过的规则。</p>\n</div>\n</div>\n</section>\n<section id=\"clients\" class=\"cli\">\n<h2>客户端</h2>\n<p>本页未收录经核对的客户端名称、版本与下载地址。因此不设置获取入口，也不把空链接写成商店按钮。下列原则用于避免误填。</p>\n<p>安装包、配置文件与此后的更新，以订阅发放时附带的说明为准。若说明缺省某一系统或某一字段，本页不代为补写兼容名单。所谓常见环境，只是分类用语，不表示已经验证可运行。</p>\n<ul>\n<li><strong>地址策略</strong>没有可靠来源时，链接保持为空，页面内仅使用节内锚点。不要从本页推断任何下载站。</li>\n<li><strong>配置策略</strong>协议名、端口、校验方式若未出现在你持有的说明里，则视为未记载。未记载即停止，不试用猜测值。</li>\n<li><strong>设备策略</strong>并行数量以对照表为准：3、5 或 20。超出上限后的处理方式未写，故不在此节描述。</li>\n</ul>\n</section>\n<section id=\"faq\">\n<h2>常见问题</h2>\n<div class=\"faq-grid\">\n<article class=\"qa\">\n<h3>本页的价格应当如何阅读？</h3>\n<p>每一档同时给出月价与年价。年价按十二个月合计标价列出，例如基础版为 ¥15/月对照 ¥150/年。是否存在其他结算切片，本页没有记载，故只按表内两行来读。</p>\n</article>\n<article class=\"qa\">\n<h3>流量数字用尽之后会怎样？</h3>\n<p>对照表只给出每月额度：100GB、300GB、1000GB。超额后是暂停、降速还是其他处理，均未写入，本文不推断，也不用相邻档位去类比。</p>\n</article>\n<article class=\"qa\">\n<h3>同时在线设备数指哪一类计数？</h3>\n<p>指该档位允许并行使用的设备上限，分别是 3 台、5 台与 20 台。如何识别“一台”、是否计入闲置会话，本页未定义，计数规则以发放说明为准。</p>\n</article>\n<article class=\"qa\">\n<h3>为什么没有安装包链接？</h3>\n<p>当前没有经过核对的下载地址，因此不填写外链。需要程序时，只使用你取得订阅时收到的说明。本页客户端一节是空记录，不是待补的商店目录。</p>\n</article>\n<article class=\"qa\">\n<h3>表里的流媒体与线路字样如何理解？</h3>\n<p>它们是档位权益的名称，用来横向区分三列，不是实测报告。本页不提供节点清单、路径质量或片源名单，故不能把这些字样读成已经完成的验证。</p>\n</article>\n<article class=\"qa\">\n<h3>优先工单和客户经理如何找到？</h3>\n<p>旗舰版列有 7x24 优先工单支持，团队版列有专属客户经理服务。具体通道、应答时限与工作语言未在本页给出，需回到订阅时附带的联系方式，而不是在本页寻找未出现的地址。</p>\n</article>\n</div>\n</section>\n</main>\n<footer class=\"foot\">mbSurf 档位说明书。本页仅整理已列出的标价与条目，对未记载事项不作承诺。</footer>",
+          "hash": "72858d00f8cd08c04c7bd4913199cd412001c8ed4baf9f846b1a596337a320f8",
+          "seo": {
+            "title": "mbSurf 档位说明书与对照表",
+            "keywords": "mbSurf,档位对照,使用说明,订阅标价,流量额度,客户端说明",
+            "description": "mbSurf 档位说明书。按克制口吻整理订阅标价、额度、设备上限与操作顺序，并附常见问题对照，不补充未记载事项。"
+          },
+          "provider": "grok",
+          "model": "grok-4.6",
+          "design": {
+            "no": "7620",
+            "hero": "5 长文叙事开篇，像专栏文章",
+            "palette": "1 墨黑配荧光绿",
+            "nav": "1 顶部细横条",
+            "card": "1 无边框仅靠留白分隔",
+            "plans_view": "1 横向对比表格",
+            "faq_view": "1 双栏问答",
+            "tone": "1 冷静克制的说明书口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "krlazif.cn",
+    "host": "p-cda0eca416.krlazif.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "b546924088791e5b4fcda2f0f5bf63fd41c5986f656cce66a7899a6b489c285c",
+    "sitemap.xml": "f4ed203955d6fdc6d3d6c4aa313b60d62429577dca270e27da261f72ba8c7b50",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "ef5568427926012a5092112f2d178881ec185d8c9d2756743d4a479b72a65e21",
+    "robots.txt": "eab9f31d008bff353a163367b34402cfd7e830b10f73be8d3b0783618710f425",
+    "90dc9b429907d780d4a0630062a6c64f.txt": "123a07a488a7cbd35b28f6e7d62307faacc2d283231a77751b14db3bff41aaee"
+  },
+  "revision": "55c788a1eaa9457f86ca88e954c6e7b0cefc6712742a50e23d3c900557fff2db"
+}
